@@ -1,0 +1,17 @@
+{
+    "editor.tabSize": 4,
+    "editor.autoIndent": "brackets",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.renderWhitespace": "selection",
+    "editor.autoClosingBrackets": "languageDefined",
+    "editor.autoClosingQuotes": "languageDefined",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "*.ts": "typescript",
+        "*.tsx": "typescriptreact",
+        "*.js": "javascript",
+        "*.jsx": "javascriptreact"
+    },
+    "diffEditor.renderIndicators": true
+}
